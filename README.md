@@ -15,11 +15,11 @@ Let's look at the ingredients:
 *A dariole
 
 # How To Do:
-1.First of all, we will put the sugar in the bowl and add three eggs and mix all of them with the mixer.
-2.After that add the oil, milk and the apple mash. Next stir them with the wooden spoon.
-3.Then pour the flour in the bowl and open the packets and add the baking powder and stir all of them.
-4.After this pour the cake dough in the dariole.
-5.Finally we bake the cake and the oven has 170'C and cook nearly 45 minutes.
+*1.First of all, we will put the sugar in the bowl and add three eggs and mix all of them with the mixer.
+*2.After that add the oil, milk and the apple mash. Next stir them with the wooden spoon.
+*3.Then pour the flour in the bowl and open the packets and add the baking powder and stir all of them.
+*4.After this pour the cake dough in the dariole.
+*5.Finally we bake the cake and the oven has 170'C and cook nearly 45 minutes.
 # Bon Appetit
 size: 1 slice cake (nearly 130 g) = calori:442 kcal
 
