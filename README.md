@@ -31,4 +31,3 @@ Let's look at the ingredients:
 * Babam: Kilo= 73 kg, Boy= 1.71, Vücut Kitle İndeksi= 24,9649 kg/m² Sonuç= sağlıklı kilolu
 * Ablam: Kilo= 50 kg, Boy= 1.60, Vücut Kitle İndeksi= 19,5312 kg/m² Sonuç= sağlıklı kilolu
 * Ben: Kilo= 66 kg, Boy= 1.81, Vücut Kitle İndeksi= 20,1459 kg/m² Sonuç= sağlıklı kilolu
-.
