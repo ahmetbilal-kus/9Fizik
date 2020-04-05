@@ -1,7 +1,7 @@
 # 9Fizik
 
 # Apple Cake Recipe
-Hi, today I am going to show you how to make an apple cake 
+Hi, today I am going to show you how to make an apple cake. 
 Let's look at the ingredients:
 * Three eggs
 * Some apple mash
@@ -29,6 +29,6 @@ Let's look at the ingredients:
 * Annem: Kilo= 52 kg, Boy= 1.60, Vücut Kitle İndeksi= 20,3125 kg/m² Sonuç= sağlıklı kilolu
 * Babam: Kilo= 73 kg, Boy= 1.71, Vücut Kitle İndeksi= 24,9649 kg/m² Sonuç= sağlıklı kilolu
 * Ablam: Kilo= 50 kg, Boy= 1.60, Vücut Kitle İndeksi= 19,5312 kg/m² Sonuç= sağlıklı kilolu
-* Ben: Kilo= 66 kg, Boy= 1.81, Vücut Kitle İndeksi= 20,1459 kg/m² sonuç= sağlıklı kilolu
+* Ben: Kilo= 66 kg, Boy= 1.81, Vücut Kitle İndeksi= 20,1459 kg/m² Sonuç= sağlıklı kilolu
 
 * Ahmet Bilal Kuş 9-D 29
