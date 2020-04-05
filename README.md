@@ -21,9 +21,9 @@ Let's look at the ingredients:
 * After this pour the cake dough in the dariole.
 * Finally we bake the cake and the oven has 170'C and cook nearly 45 minutes.
 * Bon Appetit
-size: 1 slice cake (nearly 130 g) = calori:442 kcal
-size: carrot cake (total) = calori:2534 kcal
-size: 100 gram of cake = calori:340 kcal
+* size: 1 slice cake (nearly 130 g) = calori:442 kcal
+* size: carrot cake (total) = calori:2534 kcal
+* size: 100 gram of cake = calori:340 kcal
 
 # Vücut Kitle İndeksi
 * Annem: Kilo= 52 kg, Boy= 1.60, Vücut Kitle İndeksi= 20,3125 kg/m² Sonuç= sağlıklı kilolu
