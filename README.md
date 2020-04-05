@@ -33,3 +33,4 @@ Let's look at the ingredients:
 * Ablam: Kilo= 50 kg, Boy= 1.60, Vücut Kitle İndeksi= 19,5312 kg/m² Sonuç= sağlıklı kilolu
 * Ben: Kilo= 66 kg, Boy= 1.81, Vücut Kitle İndeksi= 20,1459 kg/m² Sonuç= sağlıklı kilolu
 
+* Ahmet Bilal Kuş 9-D 29
